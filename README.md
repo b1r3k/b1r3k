@@ -1,22 +1,13 @@
 
-# Hey, I'm Łukasz 👋
-
-Software engineer building distributed systems, DevOps tooling, and occasionally flying.
-
-I write about Python, infrastructure, and systems design on my [blog](https://blog.jachym.dev).
-
-## 🔧 Tech Stack
-
-- **Languages:** Python, Javascript
-- **Infrastructure:** Docker, Kubernetes, Talos Linux
-- **DevOps:** Terraform, Ansible, CI/CD, distributed systems
-- **Interests:** storage systems, voice interfaces, homelab
+# Hey 👋
 
 ## 🚀 What I'm Working On
 
 - [open-voicetyping](https://github.com/b1r3k/open-voicetyping) — Linux-native, AI-powered voice typing. An open-source alternative to Superwhisper and Wispr Flow with minimal dependencies and secure modular architecture
 - [asyncstatsd](https://github.com/b1r3k/asyncstatsd) — asyncio-based StatsD client
 - [python-poetry-boilerplate](https://github.com/b1r3k/python-poetry-boilerplate) — modern Python application boilerplate that integrates: pyenv, poetry for dependency management, pre-commit for linting and formatting, pytest, ruff for code quality checks (formatting, linting, import sorting), mypy, pydantic/pydantic-settings is used for managing settings via environment variables.
+- ocassionally, I write on my [blog](https://blog.jachym.dev)
+
 
 ## 📝 Latest Blog Posts
 
