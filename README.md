@@ -8,9 +8,9 @@ I write about Python, infrastructure, and systems design on my [blog](https://bl
 ## 🔧 Tech Stack
 
 - **Languages:** Python, Javascript
-- **Infrastructure:** Docker, Kubernetes, Talos Linux, Terraform
-- **DevOps:** CI/CD, monitoring, distributed systems
-- **Interests:** homelab, storage systems, voice interfaces
+- **Infrastructure:** Docker, Kubernetes, Talos Linux
+- **DevOps:** Terraform, Ansible, CI/CD, distributed systems
+- **Interests:** storage systems, voice interfaces, homelab
 
 ## 🚀 What I'm Working On
 
