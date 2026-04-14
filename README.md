@@ -18,12 +18,6 @@
 - [Simple Load Balancer as an Exercise - Pure AsyncIO Implementation](https://blog.jachym.dev/python/asyncio/exercise/2024/03/09/simple-load-balancer-as-an-exercise-pure-asyncio-implementation/) — Building a load balancer using Python's built-in asyncio streaming and networking, compared against a Starlette-based baseline.
 - [Power Efficient Topton Motherboard for Homelab Storage Node](https://blog.jachym.dev/diy/hardware/2024/01/29/power-efficient-topton-motherboard-for-homelab-storage-node/) — Evaluating a Topton N5105 motherboard for homelab storage: power-efficient at ~38W idle, but tricky to get working reliably.
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=b1r3k&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1r3k&layout=compact)
-
 ## 🌍 Find Me
 
 - 📝 Blog: [blog.jachym.dev](https://blog.jachym.dev)
